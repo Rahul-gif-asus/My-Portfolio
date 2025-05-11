@@ -1,6 +1,6 @@
 # 🚀 Dev Portfolio Showcase
 
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://rahul-vishwakarma-portfolio-m545xlu00-rahulgifasus-projects.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://rahul-vishwakarma-portfolio.vercel.app/)
 [![GitHub stars](https://img.shields.io/github/stars/Rahul-gif-asus/my-full-stack-developer-portfolio?style=social)](https://github.com/Rahul-gif-asus/my-full-stack-developer-portfolio/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Rahul-gif-asus/my-full-stack-developer-portfolio?style=social)](https://github.com/Rahul-gif-asus/my-full-stack-developer-portfolio/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -9,7 +9,7 @@
 
 ## ✨ Live Demo
 
-🌐 [View Portfolio Live](https://rahul-vishwakarma-portfolio-m545xlu00-rahulgifasus-projects.vercel.app)
+🌐 [View Portfolio Live](https://rahul-vishwakarma-portfolio.vercel.app/)
 
 ---
 
@@ -107,7 +107,7 @@ This project is [MIT](LICENSE) licensed.
 
 **Rahul Vishwakarma**  
 [GitHub](https://github.com/Rahul-gif-asus)  
-[Portfolio](https://rahul-vishwakarma-portfolio-m545xlu00-rahulgifasus-projects.vercel.app)
+[Portfolio](https://rahul-vishwakarma-portfolio.vercel.app/)
 
 ---
 
