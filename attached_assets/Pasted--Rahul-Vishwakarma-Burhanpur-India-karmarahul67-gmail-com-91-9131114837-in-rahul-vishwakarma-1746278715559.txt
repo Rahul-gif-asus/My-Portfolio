@@ -1,0 +1,44 @@
+.
+.
+Rahul Vishwakarma
+Burhanpur, India karmarahul67@gmail.com +91 9131114837 in/rahul-vishwakarma-101346192
+SUMMARY
+Versatile full-stack developer with a successful track record in diverse, real-world projects across various technologies. Skilled in adapting to emerging
+technologies, specializing in algorithmic trading, concurrent analysis of extensive datasets, and cybersecurity. Demonstrates robust leadership and team
+management skills, eager to contribute expertise to drive company success.
+EDUCATION
+Class 10th | Seva Sadan Higher Secondary School | 53%
+Burhanpur, Madhya Pradesh | 2017
+Class 12th | Seva Sadan Higher Secondary School | 53%
+Burhanpur, Madhya Pradesh | 2019
+B.Tech in Computer Science and Engineering | Bansal Institute of Research Technology and Science | 7.91 CGPA
+Bhopal, Madhya Pradesh | 2023
+CERTIFICATIONS
+Advance Computer Application | Global Computer Training Academy | 2019
+• Certified in Computer Hardware Specification, Computer Basics, Internet Working, MS-Office
+Overview of Business Analytics using WEKA | Infosys | Springboard | 2023
+• Certified in Sorting, Arranging and Analysing of Data Sets, and Possible outcomes of Datasets using WEKA Software
+Geoprocessing Using Python | Indian Institute of Remote Sensing | 2023
+• Certified in Analysing Geo and Spatial Data, Raster and Vector Data Processing, using Numpy, Pandas Libraries in Python
+Data Mining and Decision Making: Data Mining for Answering Business Questions | Infosys | Springboard | 2023
+Learn Ethical Hacking from Scratch | zSecurity | Udemy | 2023
+Certified in Hacking WiFi, Wireless networks, Creating Trojans, Bruteforce, Hooking Sites, Gaining Access to Computers, Finding Vulnerabilities in Websites,
+Injecting Codes, SQL Injection, Client Side Social Engineering Attacks
+•
+SKILLS
+Programming Skills: HTML/CSS, JavaScript, Python, C++, PHP, Kotlin, C#
+Tools/Frameworks: Git, Data Structures & Algorithm,Django, Pandas, Numpy, React.js, Node.js, jQuery, Flask, HTML Templates - Handlebars, EJS, Pug
+Databases: SQLite, MySql, MongoDB
+Languages: Hindi (Native), English (Fluent)
+PROJECTS
+Vega - Copy Trading Project | github.com/Rahul-gif-asus/Vega_CopyTrading_Platform | July 2022 - November 2022
+• A CopyTrading Program for StockMarket training.
+• Tracks and stores trades simultaneously in different databases.
+• Provides detailed analysis through various graphs.
+• Stores data both on the cloud and locally.
+• A beneficial tool for tracking, analyzing, and presenting trading mistakes to the user.
+Node Translator | August 2021 - August 2021
+• Sleek Node.js web app with MySQL database for translations.
+• Dynamically translates text using Google Translate API.
+• Fetches from the API if not found in the database.
+• Stores translations for quicker retrieval, reducing reliance on Google Translate API.

@@ -1,0 +1,46 @@
+.
+.
+• Supports 160 languages for a powerful and user-friendly translation solution.
+Veronika - AI | May 2021 - August 2023
+• AI perpetually upgraded for improvements, personalization, and increased power.
+• Uses cutting-edge tech for data fetching, API analysis, language translation, and voice commands.
+• Super intelligent with Internet privileges for versatile functionalities.
+• Executes computer automation and diverse scripts for enhanced efficiency.
+• Upcoming upgrades prioritize advanced functionalities, emphasizing ethical guidelines.
+F.R.I.D.A.Y - AI
+• Automated share market trading with Python, reducing workload and errors.
+• Analyzed thousands of stocks swiftly for timely decision-making.
+• Enhanced stock prediction with data-driven algorithms for efficient investments.
+• Streamlined financial report processing, saving time and aiding decision-making.
+• Increased productivity by minimizing manual research for agile responses to market changes.
+The Social Network Site | March 2020 - April 2021
+• Developed social network site with Node.js, MongoDB, PHP, and MySQL, resembling Facebook.
+• Achieved 2000+ users, maintaining 300-500 monthly active users.
+• Designed engaging UI using Pug, Tailwind CSS, and Bootstrap.
+• Implemented real-time features with Socket.io: chat, likes, comments, user status.
+• Utilized tech stack: Node.js, MongoDB, PHP, MySQL, jQuery, Pug, Tailwind CSS, Bootstrap.
+• Notable functionalities: real-time chat, content posting, group creation.
+EXPERIENCE
+Internship on Space Launch Vehicle dedicated to small satellite | Omspace Rocket and Exploration Pvt Ltd. | Ahmedabad, Gujarat
+| December 2022 - January 2023
+• Spearheaded cutting-edge rocket engine design projects, optimizing efficiency and performance.
+• Demonstrated proficiency in industry-standard rocket design software, balancing digital design and analysis.
+• Led efforts in fuel efficiency and thrust optimization, tailoring solutions to diverse mission requirements.
+• Analyzed rocket trajectories and orbital dynamics, contributing to mission planning and execution.
+• Acquired in-depth knowledge of various rocket fuels and implemented best practices for fuel efficiency.
+• Actively participated in brainstorming sessions, contributing to new engine designs and innovative approaches.
+Full Stack Developer | Student Diwan | Qatar | May 2024 - Present
+• Developed and deployed a robust, scalable school management system.
+• Designed to cater to multiple schools, allowing each institution to manage their operations efficiently.
+• Supports various user roles, including students, teachers, and school administrators.
+• Provides a seamless experience for all stakeholders.
+• Facilitates management of students, teachers, and administrative tasks.
+• Ensures scalability and robustness to handle multiple institutions simultaneously.
+INVOLVEMENT
+Co-Founder and Head | Express Yourself Community | May 2020 - February 2022
+Bronze Medallist | Commutiny - The Youth Collective | Q-ki National Championship | June 2021 - August 2021
+Database Management of 30-NGO's as Volunteer | Commutiny - The Youth Collective | November 2021 - February 2022
+HOBBIES
+In my free time, I am deeply engrossed in the world of algorithmic trading, finding joy in crafting trading strategies. I have a keen
+interest in observing international market trends and staying updated with current affairs on a global scale. Evening walks are a
+cherished routine, offering moments of reflection and clarity.
